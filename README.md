@@ -10,7 +10,7 @@ easyKey is a simple program, that helps you in translation of key values for .js
 
 Free and easy to use but be warned, there are still some bugs if you have any fixes please send a commit or message and i will take a look.
 
-Its all written in python and the executalbe file for linux is included.
+Its all written in python so should be easy to compile and run on any os. 
 
 
 
