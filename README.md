@@ -34,3 +34,25 @@ Ctrl+s - save files (will overwrite files if enabled)
 I would recommend to use this with git otherwise it might be hard to identify issues if they appear.
 
 
+
+
+# Compiling and running
+
+Use pyinstaller or something like it to make an executable.
+
+to install pyinstaller you must have a version of python 3 and pip installed.
+
+To install any missing dependables use pip.
+
+example:
+
+pip3 install pyinstaller
+
+
+To use pyinstaller from the directory of the files, open a terminal and run:
+
+pyinstaller --onefile easyKeyProgram.py
+
+
+
+
