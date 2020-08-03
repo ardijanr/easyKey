@@ -23,7 +23,7 @@ Its all written in python so should be easy to compile and run on any os.
 # Shortcuts and info.
 
 
-F1 - load from current directory (this works best as an executable file.)
+F1 - load from current directory (this works best as an executable file)
 F5 - reload files
 F12 - toggle overwrite, see status. 
 
