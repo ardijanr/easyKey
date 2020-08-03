@@ -5,10 +5,10 @@ easier translation of .json keyvalue pair files
 
 
 
-easyKey is a simple program, that helps you in translation of key values for .json files.
+easyKey is a simple program, that i just slapped together to help me in translation of key value pairs for .json files.
 
 
-Free and easy to use but be warned, there are still some bugs if you have any fixes please send a commit or message and i will take a look.
+Feel free to use it under the license but be warned, there are still some bugs so if you have any fixes please send a commit or message and i will take a look.
 
 Its all written in python so should be easy to compile and run on any os. 
 
