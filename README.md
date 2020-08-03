@@ -36,7 +36,7 @@ I would recommend to use this with git otherwise it might be hard to identify is
 
 
 
-# Compiling and running
+# Run or make executable
 
 Use pyinstaller or something like it to make an executable.
 
